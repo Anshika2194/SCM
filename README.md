@@ -1,4 +1,4 @@
-# SCM
+# scm
 this is my scm assignment
 ....scm
 ...scm
